@@ -217,6 +217,63 @@ SortUs is a platform dedicated to sustainable e-waste collection and recycling, 
 - Deployment guides for Vercel, Railway, and cloud platforms
 - Monitoring and health check systems
 
+
+### 5.1 Training and Experiences
+
+#### Initial Training Phase (First Week)
+**Technical Orientation:**
+- **Company Onboarding:** Comprehensive introduction to SortUs's mission, values, and e-waste collection workflow
+- **Technology Stack Training:** Deep dive into React.js, Node.js, MongoDB, and Python ecosystem
+- **Development Environment Setup:** Configuration of local development environment with proper tooling
+- **Code Standards and Best Practices:** Learning company coding conventions, Git workflow, and documentation standards
+- **Agile Methodology:** Introduction to sprint planning, daily standups, and iterative development approach
+
+**Mentorship Experience:**
+- **Regular One-on-One Sessions:** Weekly meetings with supervisor Vinit Ravinder Chaudhary for guidance and feedback
+- **Code Review Process:** Learning industry-standard code review practices and receiving constructive feedback
+- **Problem-Solving Approach:** Developing systematic approach to technical challenges and debugging
+- **Project Management:** Understanding milestone tracking, deadline management, and deliverable planning
+
+#### Learning Curve and Skill Development
+**Technical Skills Progression:**
+- **Week 1-2:** Foundation building in full-stack development concepts
+- **Week 3-4:** Advanced backend development and database design patterns
+- **Week 5-6:** Frontend development with modern React patterns and state management
+- **Week 7-8:** Machine learning integration and production deployment strategies
+
+**Practical Experience Gained:**
+- **Real-world Problem Solving:** Addressing actual business requirements rather than theoretical exercises
+- **Industry Tools and Practices:** Working with professional development tools, version control, and deployment pipelines
+- **Cross-functional Collaboration:** Understanding how technical development aligns with business objectives
+- **Quality Assurance:** Learning testing methodologies, error handling, and system reliability practices
+
+#### Challenges and Growth Opportunities
+**Technical Challenges Encountered:**
+- **Microservices Communication:** Learning to design and implement communication between multiple services
+- **Machine Learning Integration:** Bridging the gap between ML models and web application architecture
+- **Performance Optimization:** Achieving sub-100ms response times for AI predictions
+- **Production Deployment:** Understanding the complexities of deploying multi-service applications
+
+**Professional Development:**
+- **Self-directed Learning:** Developing ability to research and implement new technologies independently
+- **Time Management:** Balancing multiple development tasks within sprint deadlines
+- **Documentation Skills:** Creating comprehensive technical documentation for future maintenance
+- **Communication Skills:** Regular progress reporting and technical explanation to non-technical stakeholders
+
+#### Mentorship Impact
+**Guidance Received:**
+- **Technical Direction:** Strategic guidance on architecture decisions and technology choices
+- **Industry Insights:** Understanding of current trends in web development and AI integration
+- **Career Development:** Advice on skill development and professional growth in technology sector
+- **Best Practices:** Learning production-ready development practices and code quality standards
+
+**Feedback and Improvement:**
+- **Regular Code Reviews:** Continuous improvement through detailed feedback on code quality and design
+- **Performance Evaluation:** Weekly assessments of progress and areas for improvement
+- **Skill Gap Analysis:** Identification of learning opportunities and resource recommendations
+- **Project Retrospectives:** Learning from challenges and successes throughout the development process
+
+
 ---
 
 ## 6. LEARNING OBJECTIVES
